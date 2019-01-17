@@ -1,4 +1,4 @@
-FROM crunchydata/crunchy-postgres-gis:centos7-10.3-1.8.2
+FROM crunchydata/crunchy-postgres-gis:centos7-11.1-2.2.0
 
 USER 0
 
