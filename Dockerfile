@@ -37,6 +37,37 @@ RUN yum -y install \
     tds_fdw10 \
     tds_fdw10-debuginfo \
     timescaledb_10 \
-    timescaledb_10-debuginfo
+    timescaledb_10-debuginfo \
+    citus_11 \
+    citus_11-debuginfo \
+    citus_11-devel \
+    cstore_fdw_11 \
+    cstore_fdw_11-debuginfo \
+    hdfs_fdw_11 \
+    hdfs_fdw_11-debuginfo \
+    hll_11 \
+    hll_11-debuginfo \
+    mongo_fdw11 \
+    mongo_fdw11-debuginfo \
+    multicorn11 \
+    multicorn11-debuginfo \
+    mysql_fdw_11 \
+    mysql_fdw_11-debuginfo \
+    ogr_fdw11 \
+    ogr_fdw11-debuginfo \
+    pg_bulkload11 \
+    pg_bulkload11-client \
+    pg_bulkload11-debuginfo \
+    pgmemcache-11 \
+    pgmemcache-11-debuginfo \
+    plv8_11 \
+    plv8_11-debuginfo \
+    postgresql11-devel \
+    postgresql11-debuginfo \
+    postgresql11-odbc \
+    tds_fdw11 \
+    tds_fdw11-debuginfo \
+    timescaledb_11 \
+    timescaledb_11-debuginfo
 
 USER 26
